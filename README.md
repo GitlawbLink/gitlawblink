@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/readme_header.png" alt="gitlawblink" width="100%" />
+<img src="./readme_header.png" alt="gitlawblink" width="100%" />
 
 <br/><br/>
 
