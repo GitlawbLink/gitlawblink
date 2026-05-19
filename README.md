@@ -72,13 +72,6 @@ follow [@gitlawblink](https://x.com/gitlawblink) for updates.
 
 > **we have NOT launched a token. anywhere. on any chain.**
 
-❌ no token on Base, Solana, Ethereum, or anywhere else
-❌ no presale
-❌ no mint
-❌ no airdrop
-❌ no whitelist
-❌ no contract deployed
-
 if anyone offers `$gitlawblink` tokens, sells presale spots, or shares a contract address claiming to be us — **it's a scam**.
 
 the only official channel is [@gitlawblink on X](https://x.com/gitlawblink). anything else is fake. please block & report.
